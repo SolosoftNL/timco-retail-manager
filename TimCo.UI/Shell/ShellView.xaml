@@ -5,7 +5,6 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TimCo.UI.Shell"
         mc:Ignorable="d"
-        SizeToContent="WidthAndHeight"
         WindowStartupLocation="CenterScreen"
         Title="TimCo Retail Manager" Height="450" Width="800">
     <Grid>
